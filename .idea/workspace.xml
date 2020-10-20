@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e3e1a81-5119-4ba4-8aa8-12007b522201" name="Default Changelist" comment="" />
+    <list default="true" id="6e3e1a81-5119-4ba4-8aa8-12007b522201" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test-ArtSurf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/beerForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/generalNotice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/beers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mixins/event-ids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/beers.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603120508803</updated>
       <workItem from="1603120511340" duration="8637000" />
-      <workItem from="1603172957951" duration="22894000" />
+      <workItem from="1603172957951" duration="23195000" />
     </task>
     <servers />
   </component>

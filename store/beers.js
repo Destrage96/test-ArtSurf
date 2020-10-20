@@ -75,7 +75,6 @@ export const actions = {
 
         if (index !== -1) {
             beersList[index] = beer;
-            console.log(beer)
         }
         commit('SET_LIST', beersList)
     }
